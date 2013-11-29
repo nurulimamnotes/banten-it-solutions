@@ -2,8 +2,9 @@ Banten IT Solutions
 ===================
 
 Web Template Banten IT Solutions - http://www.banten-it.com
-<<<<<<< HEAD
+=========
 Theme Designed by Nurul Imam
+<<<<<<< HEAD
 =======
 
-Silahkan Download Gratis :)
+Silahkan Download Gratis :) OK !
